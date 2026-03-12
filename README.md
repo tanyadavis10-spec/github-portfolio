@@ -17,10 +17,7 @@ I specialize in transforming complex datasets into actionable executive intellig
 - **Analytics:** Root-Cause Analysis, KPI Development (NPS, CSAT, LTV), Capacity Modeling
 - **Product Strategy:** User Stories, PRDs, Roadmap Development, Agile/Scrum
 
-### 📈 Data-Driven Case Studies
-- **[Retail Velocity Dashboard](link-to-repo):** A Tableau-driven analysis of regional sales trends and distribution "white spaces" for a mock CPG brand.
-- **[Subscription Churn SQL Project](link-to-repo):** Advanced SQL queries identifying correlation between product feedback sentiment and customer lifecycle retention.
-- **[Operational Productivity Audit](link-to-repo):** A Power BI case study demonstrating a 124% increase in case management through data-backed workflow optimization.
+
 
 ### 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
