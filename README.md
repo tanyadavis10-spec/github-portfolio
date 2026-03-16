@@ -43,6 +43,9 @@ These are actual analytical tasks I have designed and executed in my current rol
 
 ## 📬 Let's Connect
 
-I am actively transitioning into a Business Operations Analyst or BI Analyst role with a focus on companies building products at the intersection of data, operations, and customer experience. Open to opportunities at companies including Salesforce, Expedia, Pinterest, Netflix, Atlassian, Roku, IBM, and Apple.
+I am actively transitioning into a Business Operations Analyst or BI Analyst role with a focus on companies building products at the intersection of data, operations, and customer experience. Open to opportunities across the following industries:
+
+    Health, Fitness & Wellness Technology · DTC Consumer & CPG BrandsSaaS & Enterprise Technology · Travel & Hospitality
+                Streaming & Digital Media · E-Commerce & Marketplace Platforms · Consumer Products & Retail
 
 [LinkedIn](https://www.linkedin.com/in/tanya-m-davis/) · [Tableau Public](https://public.tableau.com/app/profile/tanya.davis6471) · [Email](Tanya.Davis10@gmail.com)
